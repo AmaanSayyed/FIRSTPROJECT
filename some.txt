@@ -19,3 +19,5 @@ cmd :-
 9.git commit  -a -m "commit wth add"
 
 git diff: 
+if file in wd and u want to check diff use git diff
+or if file in staging area and u want to check  diff then use git diff --staged 
