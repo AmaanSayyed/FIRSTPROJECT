@@ -5,7 +5,8 @@ staging area:
 remote repository
 
 theres length 40 checksum associated with repository for version
-
+slight change in files will show change not staged for commit
+add and then commit changes 
 
 
 
@@ -15,3 +16,4 @@ git init: will initialize wd with .git (master branch by default)
 git init -b main : initiliaze wd with .git main branch
 git add
 git commit
+git commit  -a -m "commit wth add"
