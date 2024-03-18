@@ -1,8 +1,8 @@
-working directory :
+1.working directory :
 
-staging area: 
+2.staging area: 
 
-remote repository
+3. remote repository
 
 theres length 40 checksum associated with repository for version
 slight change in files will show change not staged for commit
@@ -11,9 +11,11 @@ add and then commit changes
 
 
 cmd :- 
-git status
-git init: will initialize wd with .git (master branch by default)
-git init -b main : initiliaze wd with .git main branch
-git add
-git commit
-git commit  -a -m "commit wth add"
+4.git status
+5.git init: will initialize wd with .git (master branch by default)
+6.git init -b main : initiliaze wd with .git main branch
+7.git add
+8.git commit
+9.git commit  -a -m "commit wth add"
+
+git diff: 
