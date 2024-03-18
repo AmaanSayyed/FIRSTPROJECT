@@ -4,3 +4,14 @@ staging area:
 
 remote repository
 
+theres length 40 checksum associated with repository for version
+
+
+
+
+cmd :- 
+git status
+git init: will initialize wd with .git (master branch by default)
+git init -b main : initiliaze wd with .git main branch
+git add
+git commit
