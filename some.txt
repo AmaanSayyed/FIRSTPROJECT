@@ -23,4 +23,26 @@ git diff:
 if file in wd and u want to check diff use git diff
 or if file in staging area and u want to check  diff then use git diff --staged 
 
-git rm rf:
+git rm :
+git rm removes file from both staging area and working directory
+git rm --cached removes file from staging area not from working directory
+
+
+git remote add orgin https: ask to login
+                     ssh  no permission uses keygen to login
+for ssh :
+go to cwd 
+create a file 
+git init git add git commit then 
+1.ssh-keygen -o to generate ssh keygen
+2. copy the id_rsa.pub key and copy to ssh first time only 
+3. then copy the ssh git remote add origin link 
+git push - u origin main
+
+
+git tags:is used in Git to mark specific points in your project's history, typically to signify releases or important milestones
+tags are used for version control. 
+
+branch:
+git checkout <branchname>
+git switch  <branchname>
